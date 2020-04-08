@@ -1,5 +1,5 @@
-# Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Talks, blog posts, and interviews about the experience of being an open source maintainer
+# Awesome Maintainers - Twórcy Open Source [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> Rozmowy, posty na blogach i wywiady na temat doświadczenia, jak to jest być opiekunem oprogramowania typu Open Source
 
 * [@alyssais](https://github.com/alyssais), [Homebrew](https://github.com/Homebrew/brew)
   * "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
@@ -152,9 +152,11 @@
 
 ## Contributing
 
-Additional suggestions are welcomed! Check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Dodatkowe sugestie są mile widziane! Sprawdź [CONTRIBUTING.md](CONTRIBUTING.md) dla uzyskania wytycznych.
 
-(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue or email me privately.)
+(UWAGA: Jeśli jesteś opiekunem wymienionym tutaj i chciałbyś zostać usunięty, po prostu otwórz issue lub napisz do mnie prywatnie.)
 
-## License and attribution
-This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference me, find me here! [@nayafia](http://twitter.com/nayafia) But you are in no way required to do so.)
+## Licencja i zakres
+Lista ta jest dostępna na licencji Creative Commons CC0 1.0, co oznacza, że możesz swobodnie korzystać z niej w dowolnym celu, komercyjnym lub niekomercyjnym, bez żadnego przypisywania mi autorstwa (domena publiczna). (Jeśli jednak chcesz o mnie wspomnieć, znajdź mnie tutaj! [@nayafia](http://twitter.com/nayafia) W każdym razie wcale nie musisz.)
+
+Zmiany od: @[mbiesiad](https://github.com/mbiesiad)
